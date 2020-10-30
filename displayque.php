@@ -6,7 +6,7 @@
 	<option value="fname">First Name</option>
 	<option value="lname">Last Name</option>
 	</select>
-	<input id="textinput" name="textinput" type="text">
+	<input id="textinput" name="inputtext" type="text">
 	<input type="submit" class="w3-button w3-black" id="search" href="#" value="Go">
 </form>
 <div class="w3-row-padding w3-padding-16">
