@@ -29,5 +29,6 @@ if ($input['action'] === 'delete')
 }
 mysqli_close($conn);
 
+/*commiting some changes by adding some comments*/
 echo json_encode($input);
 ?>
